@@ -1,3 +1,3 @@
 <?php
-echo "Hello Hardcoded 2";
+echo "Hello Hardcoded 3";
 ?>
